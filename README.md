@@ -138,7 +138,7 @@ To delete Minikube and its data:
 $ minikube delete
 ```
 
-## **10. Troubleshooting*
+## **10. Troubleshooting**
 ### Minikube fails to start with Docker permission error
 Error:
 permission denied while trying to connect to the Docker daemon socket
@@ -156,6 +156,6 @@ minikube start --driver=docker --kubernetes-version=v1.30.0
 ### Networking Issues in VirtualBox
 Ensure Bridged Adapter is enabled in VirtualBox settings.
 
-## **11. Conclusion*
+## **11. Conclusion**
 You have successfully installed and configured Minikube on Ubuntu 22.04 inside VirtualBox! 🚀
 
