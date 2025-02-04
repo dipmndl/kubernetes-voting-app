@@ -1,5 +1,6 @@
 # kubernetes-voting-app
 Contain Kubernetes configuration with a sample voting app application deployment using single node cluster.
+![Voting App Architecture](asset/voting-app-architecture.png)
 
 # Minikube Installation on Ubuntu 22.04 (VirtualBox)
 
